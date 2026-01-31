@@ -26,7 +26,8 @@ itemstogether.reload
 
 #
 • Описание изображения:
-Русский вариант
-Items Together – это плагин для сервера Minecraft, который позволяет контролировать разброс предметов при смерти игрока. Вместо того чтобы разлетаться по большой территории, все выпавшие предметы остаются вместе в одной точке, что упрощает их сбор.
-English variant
-Items Together is a Minecraft server plugin that allows you to control item scattering upon a player's death. Instead of scattering across a wide area, all dropped items stay together in one spot, making them easier to collect.
+ Русский вариант
+ Items Together – это плагин для сервера Minecraft, который позволяет контролировать разброс предметов при смерти игрока. Вместо того чтобы разлетаться по большой территории, все выпавшие предметы остаются вместе в одной точке, что упрощает их сбор.
+ 
+ English variant
+ Items Together is a Minecraft server plugin that allows you to control item scattering upon a player's death. Instead of scattering across a wide area, all dropped items stay together in one spot, making them easier to collect.
