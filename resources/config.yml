@@ -1,5 +1,0 @@
-# Items Together is a plugin that allows you to control the scattering of items upon death.
-
-drop-radius: 1.5 # The maximum radius (in blocks) in which items will appear upon death.
-
-default-language: ru # Plugin language

@@ -1,4 +1,0 @@
-prefix: "&7[&fItemsTogether&7] &f"
-no-permission: "&cНет прав (itemstogether.reload)."
-reloaded: "&aКонфигурация перезагружена."
-available-command: "&a/itemstogether reload &f- перезагрузить конфиг"
