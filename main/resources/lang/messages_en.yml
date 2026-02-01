@@ -1,0 +1,4 @@
+prefix: "&7[&fItemsTogether&7] &f"
+no-permission: "&cNo permission (itemstogether.reload)."
+reloaded: "&aConfiguration reloaded."
+available-command: "&a/itemstogether reload &f- reload config"
